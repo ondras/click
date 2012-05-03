@@ -1,0 +1,8 @@
+canvas {
+	border: 2px solid black;
+	cursor: pointer;
+	background-image: url(bg.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: auto 100%;
+}
